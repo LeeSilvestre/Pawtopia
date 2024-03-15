@@ -12,3 +12,10 @@ The scope of Pawtopia focuses on the development of a user-friendly
 platform where pet owners can register, browse, and purchase a variety of
 pet supplies. The system will also include an admin dashboard for inventory
 management and order processing.
+
+Prerequisites:
+PHP
+Composer
+
+Run:
+composer install
