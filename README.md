@@ -14,7 +14,7 @@ pet supplies. The system will also include an admin dashboard for inventory
 management and order processing.
 
 Prerequisites:
-PHP
+PHP,
 Composer
 
 Run:
