@@ -20,6 +20,7 @@ class User extends Authenticatable
         'user_password',
         'user_birth',
         'user_gender',
+        'user_address'
     ];
 }
 
